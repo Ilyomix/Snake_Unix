@@ -128,12 +128,12 @@ const int	Snake::getX() const
   return this->_x;
 }
 
-const int Snake::getY() const
+const int	Snake::getY() const
 {
   return this->_y;
 }
 
-const int Snake::getDir() const
+const int	Snake::getDir() const
 {
   return this->_dir;
 }
