@@ -1,10 +1,10 @@
 //
-// Snake.cpp for nibbler in /home/tardif_a/cpp/nibbler/core
+// Snake.cpp for nibbler in /home/abd-li_i/cpp/nibbler/core
 // 
-// Made by tardif stephanie
+// Made by abd-lillah ilyes
 // Login   <tardif_a@epitech.net>
 // 
-// Started on  Fri Apr  4 17:42:37 2014 tardif stephanie
+// Started on  Fri Apr  4 17:42:37 2014 ilyes abd-lillah
 // Last update Sun Apr  6 20:01:31 2014 ilyes abd-lillah
 //
 
